@@ -1,12 +1,14 @@
 .form-field {
   display: block;
-  padding: 5px 0;
+  margin-bottom: 10px;
+}
+
+.form-field:last-child {
+  margin-bottom: 0;
 }
 
 .block {
-  margin: 10px 0;
+  margin-bottom: 20px;
 }
 
-.button {
-  margin: 10px 0;
-}
+
